@@ -13,14 +13,14 @@
 	<PropertyGroup>
 		<Title>$(PackageId)</Title>
 		<Authors>Joshua Nixon</Authors>
-		<PackageProjectUrl>https://github.com/nixonjoshua98/Nixon.Extensions</PackageProjectUrl>
-		<RepositoryUrl>https://github.com/nixonjoshua98/Nixon.Extensions</RepositoryUrl>
+		<PackageProjectUrl>https://github.com/joshua-nixon/Nixon.Extensions</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/joshua-nixon/Nixon.Extensions</RepositoryUrl>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 		<PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
 	</PropertyGroup>
 
 	<PropertyGroup>
-		<Version>10.0.20</Version>
+		<Version>10.0.21</Version>
 	</PropertyGroup>
 
 	<ItemGroup>
