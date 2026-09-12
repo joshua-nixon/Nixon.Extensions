@@ -19,10 +19,6 @@
 		<PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
 	</PropertyGroup>
 
-	<PropertyGroup>
-		<Version>10.0.22</Version>
-	</PropertyGroup>
-
 	<ItemGroup>
 		<None Include="..\..\LICENSE.txt">
 			<Pack>True</Pack>
