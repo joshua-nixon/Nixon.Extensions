@@ -1,12 +1,12 @@
 <Project>
-  <ItemGroup>
-    <PackageVersion Include="Microsoft.EntityFrameworkCore" Version="10.0.14" />
-    <PackageVersion Include="Serilog.AspNetCore" Version="10.0.0" />
-    <PackageVersion Include="Microsoft.Extensions.Configuration.Binder" Version="10.0.14" />
-    <PackageVersion Include="Microsoft.Extensions.Hosting.Abstractions" Version="10.0.14" />
-    <PackageVersion Include="Cronos" Version="0.13.0" />
-    <PackageVersion Include="Microsoft.Extensions.Hosting" Version="10.0.14" />
-    <PackageVersion Include="OpenIddict.AspNetCore" Version="7.7.2" />
-    <PackageVersion Include="OpenIddict.EntityFrameworkCore" Version="7.7.2" />
-  </ItemGroup>
+	<ItemGroup>
+		<PackageVersion Include="Serilog.AspNetCore" Version="10.0.0" />
+		<PackageVersion Include="Microsoft.Extensions.Configuration.Binder" Version="11.0.0" />
+		<PackageVersion Include="Microsoft.Extensions.Hosting.Abstractions" Version="11.0.0" />
+		<PackageVersion Include="Microsoft.EntityFrameworkCore" Version="11.0.0" />
+		<PackageVersion Include="Microsoft.Extensions.Hosting" Version="11.0.0" />
+		<PackageVersion Include="Cronos" Version="0.13.0" />
+		<PackageVersion Include="OpenIddict.AspNetCore" Version="7.8.0" />
+		<PackageVersion Include="OpenIddict.EntityFrameworkCore" Version="7.8.0" />
+	</ItemGroup>
 </Project>
